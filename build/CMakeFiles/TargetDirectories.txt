@@ -1,0 +1,3 @@
+/home/nxtperfect/Documents/Programming/C/queerfetch/build/CMakeFiles/queerfetch.dir
+/home/nxtperfect/Documents/Programming/C/queerfetch/build/CMakeFiles/edit_cache.dir
+/home/nxtperfect/Documents/Programming/C/queerfetch/build/CMakeFiles/rebuild_cache.dir
